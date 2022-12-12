@@ -1,0 +1,20 @@
+Party at Morrie’s Place: 
+
+Imagine yourself at a birthday party where N
+people are invited. Every two people are either friends to each other or
+strangers to each other. The friends have a connection between each other
+which is represented by an edge.
+
+
+● N = 6
+● Connection/ Edge =[ [1, 2], [2, 3], [2, 4], [4, 5], [6, 3], [4, 6], [5, 6] ]
+
+
+Problem:
+
+1. Represent the adjacenency matrix for the graph 
+
+2. We want to determine some information from this party graph:
+a. First, finding friends for each person.
+b. Whether there is a formation of friendship cycles? If yes, can you find such a number of cycles?
+
